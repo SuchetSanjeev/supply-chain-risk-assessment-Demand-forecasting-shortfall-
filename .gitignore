@@ -1,0 +1,14 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore macOS files (if needed)
+.DS_Store
+
+# Ignore log files
+*.log
+
+initial_work_for_shortfall.ipynb
